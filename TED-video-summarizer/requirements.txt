@@ -1,0 +1,5 @@
+beautifulsoup4
+moviepy
+nltk
+pytube
+youtube_transcript_api
